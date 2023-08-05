@@ -1,0 +1,190 @@
+
+{
+    "data":[
+{
+    "id":1,
+    "name":"air",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$130"
+
+},
+{
+    "id":2,
+    
+    "name":"airMean",
+    "depart":"3/8/2023",
+    "time":"2:30am",
+    "arival":"4:30am",
+    "price":"$150"
+
+},
+{
+    "id":3,
+    "name":"airCargo",
+    "depart":"4/8/2023",
+    "time":"11:30am",
+    "arival":"1:30pm",
+    "price":"$130"
+
+},
+{
+    "id":4,
+     "name":"sharkSpace",
+    "depart":"10/8/2023",
+    "time":"2:30pm",
+    "arival":"3:30am",
+    "price":"$200"
+
+},
+{
+    "id":5,
+    
+    "name":"Ethopia",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$220"
+
+},
+{
+    "id":6,
+    "name":"Emirate",
+    "depart":"5/9/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$300"
+
+},
+{
+    "id":7,
+    "name":"Cargo",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$360"
+
+},
+{
+    "id":8,
+    "name":"airMat",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$400"
+
+},
+{
+    "id":9,
+    "name":"shark",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$600"
+
+},
+{
+    "id":10,
+    "name":"Race",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"610"
+
+},
+{
+    "id":11,
+    "name":"USA",
+    "depart":"20/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$300"
+
+},
+{
+    "id":12,
+    "name":"AirMax",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$800"
+
+},
+{
+    "id":13,
+    "name":"Peace",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$900"
+
+},
+{
+    "id":14,
+    "name":"air",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$500"
+
+},
+{
+    "id":15,
+    "name":"Max",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+     "price":"$710"
+
+
+},
+{
+    "id":16,
+    "name":"shark",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$1000"
+
+},
+{
+    "id":17,
+    "name":"air",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$300"
+
+},
+{
+    "id":18,
+    "name":"air",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$160"
+
+},
+{
+    "id":19,
+    "name":"LoopAir",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$300"
+
+},
+{
+    "id":20,
+    "name":"slate",
+    "depart":"1/8/2023",
+    "time":"11:30am",
+    "arival":"12:30am",
+    "price":"$400"
+
+}
+
+
+]
+}
